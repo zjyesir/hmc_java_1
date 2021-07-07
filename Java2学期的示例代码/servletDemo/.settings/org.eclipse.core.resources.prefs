@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/servlet/AsyncServlet.java=UTF-8
+encoding//src/com/servlet/CookieServlet.java=UTF-8
+encoding//src/com/servlet/CookieTrackServlet.java=UTF-8
+encoding//src/com/servlet/MultiChoiceServlet.java=UTF-8
+encoding//src/com/servlet/PDFServlet.java=UTF-8
+encoding//src/com/servlet/filter/TimeTrackFilter.java=UTF-8
+encoding//src/servletContext/AdminTemperatureServlet.java=UTF-8
+encoding//src/servletContext/ShowTemperatureServlet.java=UTF-8
